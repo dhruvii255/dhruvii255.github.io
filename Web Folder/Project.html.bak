@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+	<meta charset = "UTF-8">
+	<title> Project </title>
+	</head>
+	<body>
+	<header>
+		<nav>
+			<h1 style = "background-color : yellow;"> Dhruvi Maheshwari </h1>
+			<a href = "C:\Users\HP\OneDrive\Desktop\Paintings\painting 4.png" "target = _blank"> One </a>
+			<a href = "C:\Users\HP\OneDrive\Desktop\Paintings\painting 4.png" "target = _blank"> Two  </a>
+			<a href = "C:\Users\HP\OneDrive\Desktop\Paintings\painting 4.png" "target = _blank"> Three </a>
+			<a href = "C:\Users\HP\OneDrive\Desktop\Paintings\painting 4.png" "target = _blank">  Your Choice </a>
+			
+			<h2> Favorite Foods </h2>
+			<section>
+				<ul>
+					<li> Chocolates </li>
+					<li> Milk shakes </li>
+					<li> Ice creams </li>
+					<li> Juices and virgin pina colada </li>
+				</ul>
+			</section>
+			
+			<section>
+				<h2> Achievements </h2>
+					<p> Progress in the code (100%) <progress value = "1"> </progress> </p>
+					<p> Progress in the specialization Capstone (20%) <progress value = "20" max="100"> </progress> </p>
+					<p> Progress in life goals (67%)<progress value = "67" max = "100" > </progress> </p>
+			</section>
+			
+			<h1> More About Me </h1>
+			<details>
+				<summary> My Childhood </summary>
+				<p> I grew up in great place Dhamana. I really miss my childhood school and friends. </p>
+			</details>
+				
+			
+			
+			
+		</nav>
+	</header>
+	</body>
+</html>
